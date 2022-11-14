@@ -22,6 +22,13 @@ public class ExampleClass {
 	}
 	
 	
+	public void method12()
+	{
+		
+		System.out.println("calling .. method.. ");
+	}
+	
+	
 	
 	
 	
