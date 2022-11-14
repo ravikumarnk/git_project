@@ -7,4 +7,17 @@ public class ExampleClass {
 		System.out.println("class.. ");
 	}
 	
+	
+	
+	
+	public void method2()
+	{
+		
+		System.out.println("calling .. method.. ");
+	}
+	
+	
+	
+	
+	
 }
